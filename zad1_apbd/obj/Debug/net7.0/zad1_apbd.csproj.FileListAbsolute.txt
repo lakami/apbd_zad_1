@@ -1,0 +1,14 @@
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\bin\Debug\net7.0\zad1_apbd.exe
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\bin\Debug\net7.0\zad1_apbd.deps.json
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\bin\Debug\net7.0\zad1_apbd.runtimeconfig.json
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\bin\Debug\net7.0\zad1_apbd.dll
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\bin\Debug\net7.0\zad1_apbd.pdb
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.AssemblyInfoInputs.cache
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.AssemblyInfo.cs
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.csproj.CoreCompileInputs.cache
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.dll
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\refint\zad1_apbd.dll
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.pdb
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\zad1_apbd.genruntimeconfig.cache
+E:\Dokumenty\pjatk\apbd\zad1\zad1_apbd\zad1_apbd\obj\Debug\net7.0\ref\zad1_apbd.dll
